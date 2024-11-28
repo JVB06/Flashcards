@@ -1,19 +1,19 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Motos',
+    'Qual a moto mais rápida da Kawasaki?',
+    'É a Kawasaki Ninja H2r'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Aviação',
+    'Qual foi o primeiro avião que realizou um vôo em 1914?',
+    'É o 14 Bis'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Automobilismo',
+    'QUem ganhou a fórmula 1 em 1994?',
+    'Michael Schumacher'
 )
 
 criaCartao(
