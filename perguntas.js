@@ -12,12 +12,12 @@ criaCartao(
 
 criaCartao(
     'Automobilismo',
-    'QUem ganhou a fórmula 1 em 1994?',
+    'Quem ganhou a fórmula 1 em 1994?',
     'Michael Schumacher'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'História',
+    'Quantos países há no mundo ?',
+    '195 países'
 )
